@@ -80,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                CCEO
+                CCEO Software Development
                 </div>
 
                 <div class="links">
